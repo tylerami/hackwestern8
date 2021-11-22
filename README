@@ -1,1 +1,7 @@
-Hi
+ShelterFirst is an SMS messaging platform for homeless individuals to locate nearby shelters. 
+The service accepts user location and preferences as input, and provides directions to the closest shelter that matches their needs. 
+Administrators can update shelter services and availability using our web front-end. 
+
+ShelterFirst was built using the Twilio API, Node.js webhooks, Express.js, Google Cloud Platform's Directions API, HTML, SASS, and JavaScript. 
+
+Hack Western 8 - 2x Winner for Sustainability
